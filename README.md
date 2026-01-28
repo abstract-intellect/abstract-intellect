@@ -1,10 +1,14 @@
-# Package name
-Package Name
+# Abstract Intellect
+Abstract intellect.
 <pre>
-  pip install independent-machine
+  pip install abstract-intellect
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import abstract_intellect
 ```
+You can also:
+<pre>
+    nvx abstract-intellect run
+</pre>
